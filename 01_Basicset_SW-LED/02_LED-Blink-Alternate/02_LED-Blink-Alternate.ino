@@ -10,7 +10,7 @@ void setup() {
 void loop() {
   digitalWrite(ledPin1, HIGH); //ON
   digitalWrite(ledPin2, LOW); //OFF
-  delay(1000); //1sec
+  delay(2000); //2sec
   digitalWrite(ledPin1, LOW); //OFF
   digitalWrite(ledPin2, HIGH); //ON
   delay(1000); //1sec
