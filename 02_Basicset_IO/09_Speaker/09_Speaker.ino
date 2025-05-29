@@ -20,7 +20,7 @@ void playmusic(){
   ledcWriteTone(spkrPin, RE);
   delay(250);
   ledcWriteTone(spkrPin, MI);
-  delay(250);
+  delay(350);
   ledcWriteTone(spkrPin, RE);
   delay(250);
   ledcWriteTone(spkrPin, DO);
